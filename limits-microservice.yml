@@ -1,5 +1,5 @@
 limits-service:
-  minimum: 13
-  maximum: 997
+  minimum: 14
+  maximum: 06
 server:
   port: 8080
